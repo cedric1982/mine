@@ -1,0 +1,23 @@
+DisplayTypeName:
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\cedri\OneDrive\Dokumente\EuroScope\Australia\australia.sct
+SECTORTITLE:australia.sct
+ARTCC boundary:FIR Brisbane:
+Geo:GEO:
+Geo:Goundlayout Australia Coastline:
+Regions:S012.24.37.108:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-50.128899:60.442054:25.291022:201.317660
