@@ -1,14 +1,1015 @@
 DisplayTypeName:
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\cedri\OneDrive\Dokumente\EuroScope\Australia\australia.sct
-SECTORTITLE:australia.sct
-ARTCC boundary:FIR Brisbane:
-Geo:GEO:
-Geo:Goundlayout Australia Coastline:
-Regions:S012.24.37.108:polygon
+SECTORFILE:C:\Users\cedri\OneDrive\Dokumente\EuroScope\indonesia-sectorfile\WXXX.sct
+SECTORTITLE:WXXX.sct
+Airports:WAAA:name
+Airports:WABA:name
+Airports:WABB:name
+Airports:WABC:name
+Airports:WABD:name
+Airports:WABF:name
+Airports:WABG:name
+Airports:WABI:name
+Airports:WABO:name
+Airports:WABS:name
+Airports:WADA:name
+Airports:WADB:name
+Airports:WADD:name
+Airports:WADE:name
+Airports:WADL:name
+Airports:WADS:name
+Airports:WADY:name
+Airports:WAEA:name
+Airports:WAEE:name
+Airports:WAEG:name
+Airports:WAEJ:name
+Airports:WAEK:name
+Airports:WAEL:name
+Airports:WAEM:name
+Airports:WAEO:name
+Airports:WAES:name
+Airports:WAEW:name
+Airports:WAFC:name
+Airports:WAFD:name
+Airports:WAFE:name
+Airports:WAFF:name
+Airports:WAFJ:name
+Airports:WAFK:name
+Airports:WAFL:name
+Airports:WAFM:name
+Airports:WAFN:name
+Airports:WAFP:name
+Airports:WAFS:name
+Airports:WAFT:name
+Airports:WAFW:name
+Airports:WAFY:name
+Airports:WAGA:name
+Airports:WAGD:name
+Airports:WAGF:name
+Airports:WAGG:name
+Airports:WAGI:name
+Airports:WAGK:name
+Airports:WAGL:name
+Airports:WAGM:name
+Airports:WAGP:name
+Airports:WAGS:name
+Airports:WAGT:name
+Airports:WAGY:name
+Airports:WAHH:name
+Airports:WAHI:name
+Airports:WAHL:name
+Airports:WAHP:name
+Airports:WAHQ:name
+Airports:WAHS:name
+Airports:WAHU:name
+Airports:WAJA:name
+Airports:WAJC:name
+Airports:WAJE:name
+Airports:WAJF:name
+Airports:WAJG:name
+Airports:WAJI:name
+Airports:WAJJ:name
+Airports:WAJK:name
+Airports:WAJL:name
+Airports:WAJO:name
+Airports:WAJP:name
+Airports:WAJR:name
+Airports:WAJS:name
+Airports:WAJU:name
+Airports:WAKD:name
+Airports:WAKE:name
+Airports:WAKG:name
+Airports:WAKJ:name
+Airports:WAKK:name
+Airports:WAKL:name
+Airports:WAKM:name
+Airports:WAKO:name
+Airports:WAKP:name
+Airports:WAKQ:name
+Airports:WAKT:name
+Airports:WALA:name
+Airports:WALC:name
+Airports:WALD:name
+Airports:WALE:name
+Airports:WALL:name
+Airports:WALN:name
+Airports:WALQ:name
+Airports:WALS:name
+Airports:WALT:name
+Airports:WALU:name
+Airports:WALW:name
+Airports:WAMB:name
+Airports:WAMG:name
+Airports:WAMH:name
+Airports:WAMM:name
+Airports:WAMN:name
+Airports:WAMU:name
+Airports:WAOC:name
+Airports:WAOG:name
+Airports:WAOH:name
+Airports:WAOK:name
+Airports:WAON:name
+Airports:WAOO:name
+Airports:WAPA:name
+Airports:WAPB:name
+Airports:WAPC:name
+Airports:WAPD:name
+Airports:WAPF:name
+Airports:WAPG:name
+Airports:WAPI:name
+Airports:WAPK:name
+Airports:WAPL:name
+Airports:WAPO:name
+Airports:WAPP:name
+Airports:WAPR:name
+Airports:WAPS:name
+Airports:WAPT:name
+Airports:WAPV:name
+Airports:WAQA:name
+Airports:WAQB:name
+Airports:WAQD:name
+Airports:WAQJ:name
+Airports:WAQK:name
+Airports:WAQL:name
+Airports:WAQM:name
+Airports:WAQQ:name
+Airports:WAQT:name
+Airports:WARA:name
+Airports:WARC:name
+Airports:WARE:name
+Airports:WARI:name
+Airports:WARP:name
+Airports:WARR:name
+Airports:WART:name
+Airports:WARW:name
+Airports:WASA:name
+Airports:WASF:name
+Airports:WASI:name
+Airports:WASK:name
+Airports:WASN:name
+Airports:WASO:name
+Airports:WASS:name
+Airports:WAST:name
+Airports:WASU:name
+Airports:WATA:name
+Airports:WATB:name
+Airports:WATC:name
+Airports:WATE:name
+Airports:WATG:name
+Airports:WATK:name
+Airports:WATL:name
+Airports:WATM:name
+Airports:WATO:name
+Airports:WATQ:name
+Airports:WATR:name
+Airports:WATS:name
+Airports:WATT:name
+Airports:WATU:name
+Airports:WATW:name
+Airports:WAUA:name
+Airports:WAUB:name
+Airports:WAUE:name
+Airports:WAUK:name
+Airports:WAUM:name
+Airports:WAUR:name
+Airports:WAUU:name
+Airports:WAUW:name
+Airports:WAVA:name
+Airports:WAVB:name
+Airports:WAVC:name
+Airports:WAVD:name
+Airports:WAVE:name
+Airports:WAVG:name
+Airports:WAVL:name
+Airports:WAVM:name
+Airports:WAVT:name
+Airports:WAVV:name
+Airports:WAVZ:name
+Airports:WAWA:name
+Airports:WAWB:name
+Airports:WAWC:name
+Airports:WAWD:name
+Airports:WAWI:name
+Airports:WAWP:name
+Airports:WAWR:name
+Airports:WAWW:name
+Airports:WAYA:name
+Airports:WAYB:name
+Airports:WAYE:name
+Airports:WAYI:name
+Airports:WAYJ:name
+Airports:WAYK:name
+Airports:WAYL:name
+Airports:WAYM:name
+Airports:WAYN:name
+Airports:WAYO:name
+Airports:WAYW:name
+Airports:WAYY:name
+Airports:WIBB:name
+Airports:WIBD:name
+Airports:WIBG:name
+Airports:WIBJ:name
+Airports:WIBL:name
+Airports:WIBS:name
+Airports:WICA:name
+Airports:WICC:name
+Airports:WICD:name
+Airports:WICM:name
+Airports:WICN:name
+Airports:WIDD:name
+Airports:WIDM:name
+Airports:WIDN:name
+Airports:WIDO:name
+Airports:WIDS:name
+Airports:WIDT:name
+Airports:WIEB:name
+Airports:WIEE:name
+Airports:WIGE:name
+Airports:WIGG:name
+Airports:WIGM:name
+Airports:WIHC:name
+Airports:WIHG:name
+Airports:WIHH:name
+Airports:WIHJ:name
+Airports:WIHP:name
+Airports:WIII:name
+Airports:WIJB:name
+Airports:WIJI:name
+Airports:WIJJ:name
+Airports:WIKK:name
+Airports:WIKT:name
+Airports:WILB:name
+Airports:WILG:name
+Airports:WILL:name
+Airports:WILM:name
+Airports:WILP:name
+Airports:WILW:name
+Airports:WIMA:name
+Airports:WIMB:name
+Airports:WIME:name
+Airports:WIMG:name
+Airports:WIMH:name
+Airports:WIMI:name
+Airports:WIMK:name
+Airports:WIML:name
+Airports:WIMM:name
+Airports:WIMN:name
+Airports:WIMO:name
+Airports:WIMP:name
+Airports:WIMS:name
+Airports:WIMT:name
+Airports:WIMU:name
+Airports:WIOB:name
+Airports:WIOG:name
+Airports:WIOH:name
+Airports:WIOI:name
+Airports:WIOK:name
+Airports:WIOO:name
+Airports:WIOP:name
+Airports:WIOS:name
+Airports:WIPB:name
+Airports:WIPE:name
+Airports:WIPI:name
+Airports:WIPN:name
+Airports:WIPP:name
+Airports:WIPQ:name
+Airports:WIRR:name
+Airports:WITC:name
+Airports:WITK:name
+Airports:WITL:name
+Airports:WITN:name
+Airports:WITT:name
+Airports:WMAC:name
+Airports:WMAD:name
+Airports:WMAE:name
+Airports:WMAH:name
+Airports:WMAJ:name
+Airports:WMAN:name
+Airports:WMAP:name
+Airports:WMAU:name
+Airports:WMAV:name
+Airports:WMAZ:name
+Airports:WMBA:name
+Airports:WMBE:name
+Airports:WMBF:name
+Airports:WMBH:name
+Airports:WMBI:name
+Airports:WMBT:name
+Airports:WMGK:name
+Airports:WMKA:name
+Airports:WMKB:name
+Airports:WMKC:name
+Airports:WMKD:name
+Airports:WMKE:name
+Airports:WMKF:name
+Airports:WMKI:name
+Airports:WMKJ:name
+Airports:WMKK:name
+Airports:WMKL:name
+Airports:WMKM:name
+Airports:WMKN:name
+Airports:WMKP:name
+Airports:WMPA:name
+Airports:WMPR:name
+Airports:WMSA:name
+Airports:WRLO:name
+Airports:WSAG:name
+Airports:WSAP:name
+Airports:WSAT:name
+Airports:WSSL:name
+Airports:WSSS:name
+ARTCC boundary:FIR border WAAF ARA:
+ARTCC boundary:FIR border WAAF KIY:
+ARTCC boundary:FIR border WAAF Kota Kinabalu ACC:
+ARTCC boundary:FIR border WAAF KZAK:
+ARTCC boundary:FIR border WAAF Manila:
+ARTCC boundary:FIR border WAAF TRT:
+ARTCC boundary:FIR border WIIF Chennai ACC:
+ARTCC boundary:FIR border WIIF Colombo ACC:
+ARTCC boundary:FIR border WIIF Indian East:
+ARTCC boundary:FIR border WIIF Indian FSS:
+ARTCC boundary:FIR border WIIF Kuala Lumpur ACC:
+ARTCC boundary:FIR border WIIF Kuching:
+ARTCC boundary:FIR border WIIF Singapore ACC:
+ARTCC high boundary:AoR CTR WAAF UPPER BALI (UBLI):
+ARTCC high boundary:AoR CTR WAAF UPPER KALIMANTAN (UK):
+ARTCC high boundary:AoR CTR WAAF UPPER UJUNG PANDANG EAST (UPE):
+ARTCC high boundary:AoR CTR WIIF Jakarta East:
+ARTCC high boundary:AoR CTR WIIF Jakarta North:
+ARTCC high boundary:AoR CTR WIIF Jakarta West:
+ARTCC low boundary:TMA WAAA Makassar F_APP:
+ARTCC low boundary:TMA WAAA Makassar TMA:
+ARTCC low boundary:TMA WABB Biak TMA:
+ARTCC low boundary:TMA WADD Bali TMA:
+ARTCC low boundary:TMA WAEE Ternate TMA:
+ARTCC low boundary:TMA WAFF Palu TMA:
+ARTCC low boundary:TMA WAGI Pkalan TMA:
+ARTCC low boundary:TMA WAHH Yogyakarta TMA:
+ARTCC low boundary:TMA WAHQ Solo TMA:
+ARTCC low boundary:TMA WAHS Semarang TMA:
+ARTCC low boundary:TMA WAJJ Jayapura TMA:
+ARTCC low boundary:TMA WAKK Merauke TMA:
+ARTCC low boundary:TMA WALL Balikpapan TMA:
+ARTCC low boundary:TMA WAMG Gorontalo TMA:
+ARTCC low boundary:TMA WAMM Manado TMA:
+ARTCC low boundary:TMA WAOO Banjarmasin TMA:
+ARTCC low boundary:TMA WAPP Ambon TMA:
+ARTCC low boundary:TMA WAQQ Tarakan TMA:
+ARTCC low boundary:TMA WARR Surabaya Control:
+ARTCC low boundary:TMA WARR Surabaya Director:
+ARTCC low boundary:TMA WASS Sorong TMA:
+ARTCC low boundary:TMA WATT Kupang TMA:
+ARTCC low boundary:TMA WAWW Kendari TMA:
+ARTCC low boundary:TMA WAYY Timika TMA:
+ARTCC low boundary:TMA WIBB Pekanbaru TMA:
+ARTCC low boundary:TMA WICC Bandung TMA:
+ARTCC low boundary:TMA WICD Cirebon TMA:
+ARTCC low boundary:TMA WIDN Tanjung Pinang TMA:
+ARTCC low boundary:TMA WIEE Padang TMA:
+ARTCC low boundary:TMA WIII JAKARTA ARRIVAL:
+ARTCC low boundary:TMA WIII JAKARTA LOWER:
+ARTCC low boundary:TMA WIII JAKARTA TMA:
+ARTCC low boundary:TMA WIMM Medan TMA:
+ARTCC low boundary:TMA WIOO Pontianak Approach:
+ARTCC low boundary:TMA WIPP Palembang TMA:
+ARTCC low boundary:Tower CTR WAAA Makassar CTR:
+ARTCC low boundary:Tower CTR WABB Biak CTR:
+ARTCC low boundary:Tower CTR WABB Franz ATZ:
+ARTCC low boundary:Tower CTR WABI Nabire ATZ:
+ARTCC low boundary:Tower CTR WADB Salahdn ATZ:
+ARTCC low boundary:Tower CTR WADD Bali ATZ:
+ARTCC low boundary:Tower CTR WADD Bali CTR:
+ARTCC low boundary:Tower CTR WADL Lombok ATZ:
+ARTCC low boundary:Tower CTR WADL Lombok CTR:
+ARTCC low boundary:Tower CTR WADY BBS ATZ:
+ARTCC low boundary:Tower CTR WAEE Ternate ATZ:
+ARTCC low boundary:Tower CTR WAEE Ternate CTR:
+ARTCC low boundary:Tower CTR WAFF Mutiara CTR:
+ARTCC low boundary:Tower CTR WAFF Palu CTR:
+ARTCC low boundary:Tower CTR WAGG Plkraya ATZ:
+ARTCC low boundary:Tower CTR WAGI Pkalan ATZ:
+ARTCC low boundary:Tower CTR WAGI Pkalan CTR:
+ARTCC low boundary:Tower CTR WAGS Asan ATZ:
+ARTCC low boundary:Tower CTR WAHQ Solo ATZ:
+ARTCC low boundary:Tower CTR WAHS WAHS ATZ:
+ARTCC low boundary:Tower CTR WAJJ Sentani:
+ARTCC low boundary:Tower CTR WAKK Mopah:
+ARTCC low boundary:Tower CTR WALL Balikpapan CTR:
+ARTCC low boundary:Tower CTR WALL Sepinggan ATZ:
+ARTCC low boundary:Tower CTR WALS Tamndng ATZ:
+ARTCC low boundary:Tower CTR WAMG Gorontalo CTR:
+ARTCC low boundary:Tower CTR WAMG Jalalludin ATZ:
+ARTCC low boundary:Tower CTR WAMM Manado ATZ:
+ARTCC low boundary:Tower CTR WAMM Manado CTR:
+ARTCC low boundary:Tower CTR WAOO Bjmasin ATZ:
+ARTCC low boundary:Tower CTR WAOO Bjmasin CTR:
+ARTCC low boundary:Tower CTR WAPP Ambon ATZ:
+ARTCC low boundary:Tower CTR WAPP Ambon CTR:
+ARTCC low boundary:Tower CTR WAQQ Tarakan CTR:
+ARTCC low boundary:Tower CTR WAQT Kalimaru ATZ:
+ARTCC low boundary:Tower CTR WASS Sorong ATZ:
+ARTCC low boundary:Tower CTR WATT Kupang ATZ:
+ARTCC low boundary:Tower CTR WATT Kupang CTR:
+ARTCC low boundary:Tower CTR WATU Umbu ATZ:
+ARTCC low boundary:Tower CTR WAUU Mankwri ATZ:
+ARTCC low boundary:Tower CTR WAWW Halu Olea ATZ:
+ARTCC low boundary:Tower CTR WAWW Kendari:
+ARTCC low boundary:Tower CTR WAYY Timika ATZ:
+ARTCC low boundary:Tower CTR WIDD WIDD ATZ:
+ARTCC low boundary:Tower CTR WIHH WIHH ATZ:
+ARTCC low boundary:Tower CTR WIII WIII ATZ:
+High airways:A211:line
+High airways:A215:line
+High airways:A216:line
+High airways:A224:line
+High airways:A334:line
+High airways:A339:line
+High airways:A341:line
+High airways:A344:line
+High airways:A450:line
+High airways:A457:line
+High airways:A458:line
+High airways:A461:line
+High airways:A464:line
+High airways:A576:line
+High airways:A576S:line
+High airways:A583:line
+High airways:A585:line
+High airways:A587:line
+High airways:A597:line
+High airways:B220:line
+High airways:B325:line
+High airways:B333:line
+High airways:B338:line
+High airways:B349:line
+High airways:B452:line
+High airways:B456:line
+High airways:B462:line
+High airways:B466:line
+High airways:B469:line
+High airways:B470:line
+High airways:B472:line
+High airways:B473:line
+High airways:B579:line
+High airways:B586:line
+High airways:B587:line
+High airways:B589:line
+High airways:B589A:line
+High airways:B598:line
+High airways:G200:line
+High airways:G205:line
+High airways:G209:line
+High airways:G219:line
+High airways:G222:line
+High airways:G326:line
+High airways:G331:line
+High airways:G334:line
+High airways:G337:line
+High airways:G342:line
+High airways:G458:line
+High airways:G459:line
+High airways:G460:line
+High airways:G461:line
+High airways:G464:line
+High airways:G466:line
+High airways:G468:line
+High airways:G578:line
+High airways:G579:line
+High airways:G580:line
+High airways:G582:line
+High airways:G591:line
+High airways:H407:line
+High airways:H408:line
+High airways:H409:line
+High airways:H411:line
+High airways:H413:line
+High airways:H415:line
+High airways:H416:line
+High airways:H417:line
+High airways:H418:line
+High airways:H419:line
+High airways:H525:line
+High airways:H526:line
+High airways:H527:line
+High airways:H528:line
+High airways:H531:line
+High airways:H532:line
+High airways:H533:line
+High airways:H535:line
+High airways:H538:line
+High airways:H543:line
+High airways:H544:line
+High airways:H547:line
+High airways:H549:line
+High airways:H651:line
+High airways:H652:line
+High airways:H655:line
+High airways:H656:line
+High airways:H657:line
+High airways:H658:line
+High airways:H659:line
+High airways:H660:line
+High airways:H661:line
+High airways:H667:line
+High airways:H672:line
+High airways:H673:line
+High airways:H674:line
+High airways:H775:line
+High airways:H776:line
+High airways:H777:line
+High airways:H779:line
+High airways:H781:line
+High airways:H782:line
+High airways:H783:line
+High airways:H786:line
+High airways:H787:line
+High airways:H788:line
+High airways:H790:line
+High airways:H795:line
+High airways:H796:line
+High airways:H797:line
+High airways:H798:line
+High airways:J138:line
+High airways:J151:line
+High airways:J199:line
+High airways:J251:line
+High airways:J27:line
+High airways:J30:line
+High airways:J61:line
+High airways:J64:line
+High airways:J72:line
+High airways:J917:line
+High airways:J93:line
+High airways:L504:line
+High airways:L510:line
+High airways:L511:line
+High airways:L514:line
+High airways:L515:line
+High airways:L517:line
+High airways:L625:line
+High airways:L629:line
+High airways:L635:line
+High airways:L637:line
+High airways:L642:line
+High airways:L643:line
+High airways:L644:line
+High airways:L645:line
+High airways:L649:line
+High airways:L759:line
+High airways:L762:line
+High airways:L764:line
+High airways:L774:line
+High airways:L894:line
+High airways:L895:line
+High airways:L896:line
+High airways:L897:line
+High airways:M300:line
+High airways:M522:line
+High airways:M626:line
+High airways:M630:line
+High airways:M635:line
+High airways:M641:line
+High airways:M644:line
+High airways:M646:line
+High airways:M751:line
+High airways:M753:line
+High airways:M754:line
+High airways:M755:line
+High airways:M756:line
+High airways:M757:line
+High airways:M758:line
+High airways:M759:line
+High airways:M761:line
+High airways:M763:line
+High airways:M765:line
+High airways:M766:line
+High airways:M767:line
+High airways:M768:line
+High airways:M769:line
+High airways:M770:line
+High airways:M771:line
+High airways:M772:line
+High airways:M774:line
+High airways:M904:line
+High airways:N502:line
+High airways:N509:line
+High airways:N563:line
+High airways:N571:line
+High airways:N628:line
+High airways:N633:line
+High airways:N640:line
+High airways:N646:line
+High airways:N752:line
+High airways:N875:line
+High airways:N884:line
+High airways:N891:line
+High airways:N892:line
+High airways:P501:line
+High airways:P570:line
+High airways:P574:line
+High airways:P627:line
+High airways:P628:line
+High airways:P648:line
+High airways:P756:line
+High airways:Q23:line
+High airways:Q38:line
+High airways:Q499:line
+High airways:Q587:line
+High airways:Q67:line
+High airways:Q75:line
+High airways:Q76:line
+High airways:Q801:line
+High airways:Q802:line
+High airways:Q803:line
+High airways:Q91:line
+High airways:R203:line
+High airways:R204:line
+High airways:R206:line
+High airways:R208:line
+High airways:R210:line
+High airways:R213:line
+High airways:R221:line
+High airways:R223:line
+High airways:R325:line
+High airways:R337:line
+High airways:R340:line
+High airways:R342:line
+High airways:R346:line
+High airways:R455:line
+High airways:R461:line
+High airways:R467:line
+High airways:R469:line
+High airways:R575:line
+High airways:R579:line
+High airways:R584:line
+High airways:R588:line
+High airways:R590:line
+High airways:R592:line
+High airways:T1:line
+High airways:T10:line
+High airways:T11:line
+High airways:T12:line
+High airways:T13:line
+High airways:T15:line
+High airways:T16:line
+High airways:T17:line
+High airways:T18:line
+High airways:T19:line
+High airways:T2:line
+High airways:T20:line
+High airways:T27:line
+High airways:T28:line
+High airways:T29:line
+High airways:T3:line
+High airways:T4:line
+High airways:T41:line
+High airways:T5:line
+High airways:T58:line
+High airways:T6:line
+High airways:T611:line
+High airways:T612:line
+High airways:T63:line
+High airways:T7:line
+High airways:T74:line
+High airways:T8:line
+High airways:UQ175:line
+High airways:UQ200:line
+High airways:UQ220:line
+High airways:UQ320:line
+High airways:UQ61:line
+High airways:UQ95:line
+High airways:UY83:line
+High airways:UY85:line
+High airways:UY91:line
+High airways:UY95:line
+High airways:W10:line
+High airways:W10A:line
+High airways:W11:line
+High airways:W12:line
+High airways:W12E:line
+High airways:W13:line
+High airways:W14:line
+High airways:W15:line
+High airways:W15N:line
+High airways:W16:line
+High airways:W16S:line
+High airways:W17:line
+High airways:W17N:line
+High airways:W17S:line
+High airways:W18:line
+High airways:W19:line
+High airways:W20:line
+High airways:W21:line
+High airways:W22:line
+High airways:W23:line
+High airways:W24:line
+High airways:W25:line
+High airways:W257:line
+High airways:W26:line
+High airways:W26E:line
+High airways:W28:line
+High airways:W3:line
+High airways:W31:line
+High airways:W31W:line
+High airways:W32:line
+High airways:W32N:line
+High airways:W33:line
+High airways:W34:line
+High airways:W35:line
+High airways:W36:line
+High airways:W37:line
+High airways:W38:line
+High airways:W38W:line
+High airways:W401:line
+High airways:W407:line
+High airways:W41:line
+High airways:W42:line
+High airways:W420:line
+High airways:W421:line
+High airways:W422:line
+High airways:W424:line
+High airways:W425:line
+High airways:W43:line
+High airways:W44:line
+High airways:W441:line
+High airways:W442:line
+High airways:W443:line
+High airways:W446:line
+High airways:W447:line
+High airways:W448:line
+High airways:W449:line
+High airways:W45:line
+High airways:W450:line
+High airways:W451:line
+High airways:W452:line
+High airways:W453:line
+High airways:W455:line
+High airways:W457:line
+High airways:W458:line
+High airways:W459:line
+High airways:W46:line
+High airways:W460:line
+High airways:W461:line
+High airways:W463:line
+High airways:W482:line
+High airways:W51:line
+High airways:W52:line
+High airways:W525:line
+High airways:W53:line
+High airways:W530:line
+High airways:W531:line
+High airways:W532:line
+High airways:W533:line
+High airways:W534:line
+High airways:W535:line
+High airways:W536:line
+High airways:W54:line
+High airways:W540:line
+High airways:W545:line
+High airways:W546:line
+High airways:W55:line
+High airways:W6:line
+High airways:W605:line
+High airways:W61:line
+High airways:W62:line
+High airways:W63:line
+High airways:W64:line
+High airways:W65:line
+High airways:W650:line
+High airways:W651:line
+High airways:W66:line
+High airways:W67:line
+High airways:W677:line
+High airways:W68:line
+High airways:W69:line
+High airways:W6A:line
+High airways:W7:line
+High airways:W71:line
+High airways:W8:line
+High airways:W9:line
+High airways:W94:line
+High airways:W9A:line
+High airways:Y10:line
+High airways:Y11:line
+High airways:Y153:line
+High airways:Y177:line
+High airways:Y18:line
+High airways:Y19:line
+High airways:Y25:line
+High airways:Y3:line
+High airways:Y31:line
+High airways:Y334:line
+High airways:Y335:line
+High airways:Y336:line
+High airways:Y337:line
+High airways:Y338:line
+High airways:Y339:line
+High airways:Y340:line
+High airways:Y342:line
+High airways:Y343:line
+High airways:Y344:line
+High airways:Y345:line
+High airways:Y346:line
+High airways:Y347:line
+High airways:Y349:line
+High airways:Y350:line
+High airways:Y351:line
+High airways:Y4:line
+High airways:Y445:line
+High airways:Y446:line
+High airways:Y447:line
+High airways:Y5:line
+High airways:Y501:line
+High airways:Y502:line
+High airways:Y503:line
+High airways:Y504:line
+High airways:Y506:line
+High airways:Y507:line
+High airways:Y508:line
+High airways:Y509:line
+High airways:Y511:line
+High airways:Y512:line
+High airways:Y513:line
+High airways:Y514:line
+High airways:Y8:line
+High airways:Y9:line
+High airways:Y94:line
+High airways:Y95:line
+High airways:Y99:line
+High airways:Z1:line
+High airways:Z10:line
+High airways:Z12:line
+High airways:Z17:line
+High airways:Z2:line
+High airways:Z25:line
+High airways:Z3:line
+High airways:Z86:line
+VORs:ABD:symbol
+VORs:AMN:symbol
+VORs:ANY:symbol
+VORs:ARG:symbol
+VORs:ARP:symbol
+VORs:BAC:symbol
+VORs:BDM:symbol
+VORs:BET:symbol
+VORs:BIK:symbol
+VORs:BJW:symbol
+VORs:BKL:symbol
+VORs:BLI:symbol
+VORs:BN:symbol
+VORs:BND:symbol
+VORs:BPN:symbol
+VORs:BRM:symbol
+VORs:BRU:symbol
+VORs:BRZ:symbol
+VORs:BTM:symbol
+VORs:BTO:symbol
+VORs:BTR:symbol
+VORs:CC:symbol
+VORs:CIN:symbol
+VORs:CKG:symbol
+VORs:CLP:symbol
+VORs:COT:symbol
+VORs:CS:symbol
+VORs:CSN:symbol
+VORs:DAO:symbol
+VORs:DAR:symbol
+VORs:DES:symbol
+VORs:DIL:symbol
+VORs:DKI:symbol
+VORs:DN:symbol
+VORs:GSA:symbol
+VORs:GTE:symbol
+VORs:GTL:symbol
+VORs:GV:symbol
+VORs:HLM:symbol
+VORs:HLW:symbol
+VORs:HTY:symbol
+VORs:IMU:symbol
+VORs:IWY:symbol
+VORs:JMB:symbol
+VORs:JOG:symbol
+VORs:JPA:symbol
+VORs:KAO:symbol
+VORs:KBI:symbol
+VORs:KDI:symbol
+VORs:KMN:symbol
+VORs:KPG:symbol
+VORs:KTG:symbol
+VORs:KTJ:symbol
+VORs:KU:symbol
+VORs:KVG:symbol
+VORs:LBJ:symbol
+VORs:LGD:symbol
+VORs:LMB:symbol
+VORs:LR:symbol
+VORs:LWK:symbol
+VORs:MAK:symbol
+VORs:MDN:symbol
+VORs:MIL:symbol
+VORs:MJU:symbol
+VORs:MKB:symbol
+VORs:MKE:symbol
+VORs:MKS:symbol
+VORs:MKW:symbol
+VORs:MLH:symbol
+VORs:MLI:symbol
+VORs:MNO:symbol
+VORs:MOE:symbol
+VORs:MOF:symbol
+VORs:MOR:symbol
+VORs:MTM:symbol
+VORs:MWB:symbol
+VORs:NBR:symbol
+VORs:NDE:symbol
+VORs:NIS:symbol
+VORs:NKS:symbol
+VORs:NMA:symbol
+VORs:NNK:symbol
+VORs:NTA:symbol
+VORs:NTW:symbol
+VORs:NZ:symbol
+VORs:OEC:symbol
+VORs:OKI:symbol
+VORs:OKT:symbol
+VORs:PAL:symbol
+VORs:PDG:symbol
+VORs:PKN:symbol
+VORs:PKP:symbol
+VORs:PKU:symbol
+VORs:PKY:symbol
+VORs:PLA:symbol
+VORs:PLB:symbol
+VORs:PMA:symbol
+VORs:PNK:symbol
+VORs:PSJ:symbol
+VORs:PSU:symbol
+VORs:PU:symbol
+VORs:PUT:symbol
+VORs:PY:symbol
+VORs:RB:symbol
+VORs:ROR:symbol
+VORs:SBR:symbol
+VORs:SIX:symbol
+VORs:SJ:symbol
+VORs:SKL:symbol
+VORs:SLG:symbol
+VORs:SLO:symbol
+VORs:SLP:symbol
+VORs:SMP:symbol
+VORs:SPT:symbol
+VORs:SUI:symbol
+VORs:TBK:symbol
+VORs:TDL:symbol
+VORs:TKG:symbol
+VORs:TKK:symbol
+VORs:TMK:symbol
+VORs:TN:symbol
+VORs:TNG:symbol
+VORs:TPG:symbol
+VORs:TPN:symbol
+VORs:TRK:symbol
+VORs:TRN:symbol
+VORs:VAS:symbol
+VORs:VBA:symbol
+VORs:VBT:symbol
+VORs:VBU:symbol
+VORs:VGK:symbol
+VORs:VIH:symbol
+VORs:VJB:symbol
+VORs:VJN:symbol
+VORs:VKB:symbol
+VORs:VKG:symbol
+VORs:VKL:symbol
+VORs:VKN:symbol
+VORs:VKP:symbol
+VORs:VKR:symbol
+VORs:VLB:symbol
+VORs:VLG:symbol
+VORs:VMH:symbol
+VORs:VMK:symbol
+VORs:VMR:symbol
+VORs:VMY:symbol
+VORs:VNO:symbol
+VORs:VPG:symbol
+VORs:VPK:symbol
+VORs:VPL:symbol
+VORs:VPS:symbol
+VORs:VSI:symbol
+VORs:VSN:symbol
+VORs:VSP:symbol
+VORs:VTK:symbol
+VORs:VTW:symbol
+VORs:VZU:symbol
+VORs:WGP:symbol
+VORs:WP:symbol
+VORs:XBC:symbol
+VORs:XMX:symbol
+VORs:YXM:symbol
+VORs:ZAM:symbol
 SHOWC:1
-SHOWSB:1
+SHOWSB:0
 BELOW:0
 ABOVE:0
 LEADER:5
@@ -19,5 +1020,5 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
-TAGFAMILY:Matias (built in)
-WINDOWAREA:-50.128899:60.442054:25.291022:201.317660
+TAGFAMILY:
+WINDOWAREA:-49.517197:74.000854:37.727001:155.450000
